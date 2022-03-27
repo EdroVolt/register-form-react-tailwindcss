@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/register-form-react-tailwindcss/static/css/main.c30537b8.css",
+    "main.js": "/register-form-react-tailwindcss/static/js/main.7bde9951.js",
+    "index.html": "/register-form-react-tailwindcss/index.html",
+    "main.c30537b8.css.map": "/register-form-react-tailwindcss/static/css/main.c30537b8.css.map",
+    "main.7bde9951.js.map": "/register-form-react-tailwindcss/static/js/main.7bde9951.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c30537b8.css",
+    "static/js/main.7bde9951.js"
+  ]
+}
